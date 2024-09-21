@@ -1,7 +1,8 @@
 {
   "dependencies": {
+    "com.unity.burst": "1.8.18",
     "com.unity.entities.graphics": "1.0.14",
-    "com.unity.render-pipelines.universal": "14.0.8",
+    "com.unity.render-pipelines.universal": "14.0.11",
     "jp.keijiro.metatex": "1.0.4",
     "com.unity.modules.uielements": "1.0.0"
   },
